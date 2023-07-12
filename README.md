@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My work contributes to Monitoring and Evaluation, Research and Learning at a Development organization. I am particularly interested in evaluating program effectiveness through causal inference methods (Impact Evaluations), especially related to Economic Development, tackling root causes of poverty. I especially care about children from all nations, and want to contribute so that they can flourish.
+- My work contributes to Monitoring and Evaluation, Research and Learning at a Development organization. I am particularly interested in evaluating program effectiveness through causal inference methods (Impact Evaluations) related to Economic Development, and tackling root causes of poverty (including considering aspects such as aspirations, hope, internal constraints). I especially care about children from all nations, and want to contribute so that they can flourish.
 - I'm constantly developing skills related to the data pipeline / data flow / data architecture, automation of processes, and advanced data cleaning. 
   
 - 🔭 I’m currently working on some projects that contain private data, so they are not displayed here (including translation code from different languages to English, tokenization, fuzzy matching for Indicators text, among others).

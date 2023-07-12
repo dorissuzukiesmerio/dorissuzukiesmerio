@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: dsuzuki@g.clemson.edu
 
+  > R | Python | Stata | SQL | Latex | RMarkdown | RShiny
+
 
 Disclaimer: I am working on updating and cleaning my repositories
 <!--

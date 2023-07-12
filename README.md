@@ -7,7 +7,8 @@
 
 - 📫 How to reach me: dsuzuki@g.clemson.edu
 
-  > You will find projects using: R | Python | Stata | SQL | Latex | RMarkdown | RMarkdown | Quarto
+  > You will find projects using:
+  > R | Python | Stata | SQL | Latex | RMarkdown | RShiny | Quarto
 
 
 Disclaimer: I am working on updating and cleaning my repositories

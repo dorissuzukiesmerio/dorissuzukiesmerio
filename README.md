@@ -1,6 +1,6 @@
 ### Welcome to my GitHub :computer_mouse:	
 
-My name is Doris Suzuki Esmerio, I work as a Data Scientist in an organization that seeks to promote Economic Development in communities across the world (Africa, Asia, South and Central America, Eastern Europe, Oceania).
+I work as a Data Scientist in an organization that seeks to promote Economic Development in communities across the world (Africa, Asia, South and Central America, Eastern Europe, Oceania).
 
 - :earth_africa: My work contributes to Monitoring and Evaluation, Research and Learning with the Strategy Realization Office. I am particularly interested in evaluating program effectiveness through causal inference methods (Impact Evaluations). I especially care about children from all nations, and want to contribute so that they can flourish.
 - :computer: I'm constantly developing skills related to the data pipeline / data flow / data architecture, automation of processes, and advanced data cleaning. 

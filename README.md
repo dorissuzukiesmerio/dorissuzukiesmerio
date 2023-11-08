@@ -2,7 +2,7 @@
 
 I work as a Data Scientist in an organization that seeks to promote Economic Development in communities across the world (Africa, Asia, South and Central America, Eastern Europe, Oceania).
 
-- :earth_africa: My work primarily contributes to the area of Monitoring and Evaluation, Design, and Learning with the Strategy, Realisation, Evidence and Innovation Office. I am particularly interested in evaluating program effectiveness through causal inference methods (Impact Evaluations). I especially care about children from all nations, and want to contribute so that they can flourish.
+- :earth_africa: My work primarily contributes to the area of Monitoring and Evaluation, Research and Learning. I am particularly interested in deriving actionable insights from data. I especially care about children from all nations, and want to contribute so that they can flourish.
 - :computer: I'm constantly developing skills related to the data pipeline / data flow / data architecture, automation of processes, and advanced data cleaning. 
   
 - 🔭 I’m currently working (and have previously worked) on several projects that contain private data, so they are not displayed here (including translation code from different languages to English, tokenization, topic extraction, developing a customized fuzzy matching algorithm for Indicators text, building a ShinyApp for automatic survey building based on Indicator Codes provided by the user, among others).

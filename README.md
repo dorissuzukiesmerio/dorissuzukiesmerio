@@ -1,6 +1,6 @@
 ### Welcome to my GitHub :computer_mouse:	
 
-I work as a Data Scientist in an organization that seeks to promote Economic Development in communities across the world (Africa, Asia, South and Central America, Eastern Europe, Oceania).
+I work as a Data Scientist in an organization that seeks to promote Economic Development in communities across the world (Africa, Asia, Latin America).
 
 - :earth_africa: My work primarily contributes to the area of Monitoring and Evaluation, Research and Learning. I am particularly interested in deriving actionable insights from data. I especially care about children from all nations, and want to contribute so that they can flourish.
 - :computer: I'm constantly developing skills related to the data pipeline / data flow / data architecture, automation of processes, and advanced data cleaning. 
